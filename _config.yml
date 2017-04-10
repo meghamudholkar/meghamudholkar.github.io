@@ -1,6 +1,6 @@
 name: Megha Mudholkar, TIMSCDR
 
-markdown: HTML
+markdown: Kramdown
 permalink: /blog/:year/:month/:day/:title
 
 theme: jekyll-theme-slate
